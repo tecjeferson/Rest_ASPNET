@@ -1,0 +1,14 @@
+C:\Users\jeferson.rocha\Documents\Projects\Rest_ASPNET\RestASPNET\RestASPNET\bin\Debug\netcoreapp2.1\RestASPNET.deps.json
+C:\Users\jeferson.rocha\Documents\Projects\Rest_ASPNET\RestASPNET\RestASPNET\bin\Debug\netcoreapp2.1\RestASPNET.runtimeconfig.json
+C:\Users\jeferson.rocha\Documents\Projects\Rest_ASPNET\RestASPNET\RestASPNET\bin\Debug\netcoreapp2.1\RestASPNET.runtimeconfig.dev.json
+C:\Users\jeferson.rocha\Documents\Projects\Rest_ASPNET\RestASPNET\RestASPNET\bin\Debug\netcoreapp2.1\RestASPNET.dll
+C:\Users\jeferson.rocha\Documents\Projects\Rest_ASPNET\RestASPNET\RestASPNET\bin\Debug\netcoreapp2.1\RestASPNET.pdb
+C:\Users\jeferson.rocha\Documents\Projects\Rest_ASPNET\RestASPNET\RestASPNET\obj\Debug\netcoreapp2.1\RestASPNET.csprojAssemblyReference.cache
+C:\Users\jeferson.rocha\Documents\Projects\Rest_ASPNET\RestASPNET\RestASPNET\obj\Debug\netcoreapp2.1\RestASPNET.csproj.CoreCompileInputs.cache
+C:\Users\jeferson.rocha\Documents\Projects\Rest_ASPNET\RestASPNET\RestASPNET\obj\Debug\netcoreapp2.1\RestASPNET.RazorAssemblyInfo.cache
+C:\Users\jeferson.rocha\Documents\Projects\Rest_ASPNET\RestASPNET\RestASPNET\obj\Debug\netcoreapp2.1\RestASPNET.RazorAssemblyInfo.cs
+C:\Users\jeferson.rocha\Documents\Projects\Rest_ASPNET\RestASPNET\RestASPNET\obj\Debug\netcoreapp2.1\RestASPNET.AssemblyInfoInputs.cache
+C:\Users\jeferson.rocha\Documents\Projects\Rest_ASPNET\RestASPNET\RestASPNET\obj\Debug\netcoreapp2.1\RestASPNET.AssemblyInfo.cs
+C:\Users\jeferson.rocha\Documents\Projects\Rest_ASPNET\RestASPNET\RestASPNET\obj\Debug\netcoreapp2.1\RestASPNET.RazorTargetAssemblyInfo.cache
+C:\Users\jeferson.rocha\Documents\Projects\Rest_ASPNET\RestASPNET\RestASPNET\obj\Debug\netcoreapp2.1\RestASPNET.dll
+C:\Users\jeferson.rocha\Documents\Projects\Rest_ASPNET\RestASPNET\RestASPNET\obj\Debug\netcoreapp2.1\RestASPNET.pdb
