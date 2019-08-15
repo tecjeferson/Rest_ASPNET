@@ -10,9 +10,9 @@ namespace RestASPNET.Controllers
     [ApiController]
     public class CalculatorController : Controller
     {
-         // GET api/values/5
-        [HttpGet("{fisrtNumber}/{secondNumber}")]
-        public  IActionResult Sum(string firstNumber, string secondNumber)
+        // GET api/values/5
+        [HttpGet("sum/{firstNumber}/{secondNumber}")]
+        public IActionResult Sum(string firstNumber, string secondNumber)
         {
             if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
             {
@@ -24,6 +24,21 @@ namespace RestASPNET.Controllers
 
 
         }
+
+        [HttpGet("subtraction/{firstNumber}/{secondNumber}")]
+        public IActionResult Subtraction(string firstNumber, string secondNumber)
+        {
+            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            {
+                var sum = ConvertToDecimal(firstNumber) - ConvertToDecimal(secondNumber);
+                return Ok(sum.ToString());
+            }
+
+            return BadRequest("Invalid Input!!!");
+
+
+        }
+
 
         private decimal ConvertToDecimal(string numberV)
         {
