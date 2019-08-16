@@ -39,6 +39,20 @@ namespace RestASPNET.Controllers
 
         }
 
+        [HttpGet("division/{firstNumber}/{secondNumber}")]
+        public IActionResult division(string firstNumber, string secondNumber)
+        {
+            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            {
+                var sum = ConvertToDecimal(firstNumber) - ConvertToDecimal(secondNumber);
+                return Ok(sum.ToString());
+            }
+
+            return BadRequest("Invalid Input!!!");
+
+
+        }
+
 
         private decimal ConvertToDecimal(string numberV)
         {
