@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeferson.rocha\\Documents\\Projects\\Rest_ASPNET\\RestASPNET\\RestASPNET\\RestASPNET.csproj": {}
+    "C:\\Users\\jefbg\\Documents\\projetos\\Rest_ASPNET\\RestASPNET\\RestASPNET\\RestASPNET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeferson.rocha\\Documents\\Projects\\Rest_ASPNET\\RestASPNET\\RestASPNET\\RestASPNET.csproj": {
+    "C:\\Users\\jefbg\\Documents\\projetos\\Rest_ASPNET\\RestASPNET\\RestASPNET\\RestASPNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeferson.rocha\\Documents\\Projects\\Rest_ASPNET\\RestASPNET\\RestASPNET\\RestASPNET.csproj",
+        "projectUniqueName": "C:\\Users\\jefbg\\Documents\\projetos\\Rest_ASPNET\\RestASPNET\\RestASPNET\\RestASPNET.csproj",
         "projectName": "RestASPNET",
-        "projectPath": "C:\\Users\\jeferson.rocha\\Documents\\Projects\\Rest_ASPNET\\RestASPNET\\RestASPNET\\RestASPNET.csproj",
-        "packagesPath": "C:\\Users\\jeferson.rocha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeferson.rocha\\Documents\\Projects\\Rest_ASPNET\\RestASPNET\\RestASPNET\\obj\\",
+        "projectPath": "C:\\Users\\jefbg\\Documents\\projetos\\Rest_ASPNET\\RestASPNET\\RestASPNET\\RestASPNET.csproj",
+        "packagesPath": "C:\\Users\\jefbg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jefbg\\Documents\\projetos\\Rest_ASPNET\\RestASPNET\\RestASPNET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jeferson.rocha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jefbg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -47,15 +47,24 @@
               "version": "[2.1.1, )",
               "autoReferenced": true
             },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.1.0, )"
             }
           },
           "imports": [
